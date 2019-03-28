@@ -1,2 +1,2 @@
 # READMY
-new 
+Ini adalah Tugas PORTOFOLIO 
